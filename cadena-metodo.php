@@ -1,5 +1,5 @@
 <?php
-
+//ver
 class UsuarioCdn{
     public $nombre;
     public $correo;
